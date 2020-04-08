@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MoeMoeZのBlog</title>
-    <link>https://www.flysnow.org/tags/</link>
+    <link>https://moemoez.github.io/tags/</link>
     <description>Recent content in Tags on MoeMoeZのBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
     
-	<atom:link href="https://www.flysnow.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moemoez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>golang</title>
-      <link>https://www.flysnow.org/tags/golang/</link>
+      <link>https://moemoez.github.io/tags/golang/</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
       
-      <guid>https://www.flysnow.org/tags/golang/</guid>
+      <guid>https://moemoez.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
